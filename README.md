@@ -11,7 +11,7 @@ QUESTIONS ANSWERED
 
 • What is the total number of employees?
 
-• What is the attrition count (number of employees •
+• What is the attrition count (number of employees 
 
 • Who left the company)?
 
@@ -38,7 +38,7 @@ QUESTIONS ANSWERED
 
 DASHBOARD
 
-<img width="2422" height="1222" alt="image" src="https://github.com/user-attachments/assets/c3cbb407-66f0-4ca3-94a3-6c6a35a19c1b" />
+https://github.com/Gtshivanand/HR_Analytics_Dashboard_Excel_Project/blob/main/HR%20Analytics%20Dashboard.png
 
 
 
