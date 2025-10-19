@@ -23,7 +23,8 @@ What is the job satisfaction rating?
 
 DASHBOARD
 
-"C:\Users\HP\Downloads\HR Analysis Dashboard...1.xlsx"
+<img width="2422" height="1222" alt="image" src="https://github.com/user-attachments/assets/c3cbb407-66f0-4ca3-94a3-6c6a35a19c1b" />
+
 
 
 KEY PERFORMANCE INDICATORS (KPIs)
